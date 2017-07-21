@@ -1,6 +1,6 @@
 # Graph types
 
-- Line graph
+- Line graph <sup>1</sup>
 - Bar chart
 - Pie chart
 - Mixed graph
